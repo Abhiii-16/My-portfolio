@@ -16,7 +16,7 @@ const rubik = Rubik({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://mdTaquiImam.vercel.app"),
+  metadataBase: new URL("https://abhineet-portfolio.vercel.app/"),
   title: {
     default: siteConfig.name,
     template: `%s - Software Engineer`,
