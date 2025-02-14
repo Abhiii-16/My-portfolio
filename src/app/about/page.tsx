@@ -7,7 +7,7 @@ const page = () => {
   const items = [
     { hobby: "Coding" },
     { hobby: "Playing Games" },
-    { hobby: "Watching Anime" },
+    { hobby: "Playing Football" },
     { hobby: "Tech Blog Writing" },
     { hobby: "Creating Cool Projects" },
   ];
@@ -26,13 +26,7 @@ const page = () => {
 
         <FramerWrapper y={0} x={100}>
           <p className=" font-poppins text-xl w-full text-primary max-sm:text-lg ">
-            I am a Full Stack Web Developer from Ramgarh cantt, Jharkhand,
-            India. I&apos;m passionate about crafting web projects and
-            contributing to open-source communities. I specialize in modern
-            JavaScript frameworks and responsive CSS design, focusing on
-            creating pixel-perfect, user-friendly interfaces. With strong
-            attention to detail and efficient delivery, I build seamless web
-            experiences that combine functionality with elegant design.
+          I&apos;m a Software Developer passionate about building scalable systems and intuitive user experiences. With experience in Python, AI/ML, Express, React, Next.js, Node.js, OpenCV, Firebase  and Docker, I specialize in crafting high-performance applications with clean and efficient code. From backend optimizations to sleek UI designs, I love solving real-world problems through innovative thinking. Always exploring new tech, I thrive on creating impactful solutions that push boundaries.
           </p>
         </FramerWrapper>
       </div>

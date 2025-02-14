@@ -22,7 +22,7 @@ const educationPage = () => {
             delay={0.35}
             className="w-1/4 font-rubik flex items-center justify-evenly text-lg max-sm:text-base "
           >
-            July 2023 - 2026
+            2022 - 2026
           </FramerWrapper>
           <FramerWrapper
             y={0}
@@ -31,15 +31,15 @@ const educationPage = () => {
             className="relative w-3/4 border-l-4 border-l-[#3c3c3c] p-4 gap-3 education_point "
           >
             <div className="text-2xl font-rubik max-sm:text-xl">
-              Bachelor of Computer Application, <br /> Ranchi University
-              Jharkhand
+              Bachelor of Electronics & Communication Engineering, <br /> IIIT BHOPAL.
+              
             </div>
             <p className=" font-poppins text-base w-full text-primary  max-sm:text-xs">
-              I am currently Studying Bachelor of Computer Application form
-              Doranda College Ranchi a Goverment College of Ranchi. The program
-              has provided me with a well-rounded education, covering both
-              theoretical foundations and practical applications of computer
-              science.
+            I am a Software Developer with a strong foundation in computer science and web technologies. Currently pursuing a Bachelor of Computer Applications at IIIT BHOPAL, I have gained a well-rounded education that bridges theoretical concepts with practical applications.
+
+My expertise includes Python, AI/ML, Express, React, Next.js, Node.js, OpenCV, Firebase and Docker with hands-on experience in backend development, databases, and cloud technologies. I am passionate about building seamless, scalable applications and constantly exploring innovative solutions in the tech world.
+
+With a keen eye for clean code, UI/UX design, and performance optimization, I thrive on solving complex problems and pushing the boundaries of web development.
             </p>
           </FramerWrapper>
         </div>
