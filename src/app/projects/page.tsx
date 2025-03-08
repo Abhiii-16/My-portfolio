@@ -4,6 +4,7 @@ import ProjectCards from "@/components/ProjectsCard";
 import { Badge } from "@/components/ui/badge";
 import { Layers } from "lucide-react";
 
+
 const projectsPage = () => {
   // PROJECTS DATA
   const Projects = [
